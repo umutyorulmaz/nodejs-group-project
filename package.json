@@ -18,6 +18,8 @@
   "homepage": "https://github.com/umutyorulmaz/nodejs-group-project#readme",
   "dependencies": {
     "crypto-js": "^4.1.1",
-    "events": "^3.3.0"
+    "events": "^3.3.0",
+    "mongoose": "^6.7.2",
+    "socket.io": "^4.5.3"
   }
 }
