@@ -1,1 +1,2 @@
 names and numbers
+// nader I fixed the files index.js, users.js, created new file called routesaccounts.js by looking at express lab from mikes github session for express lab folder they seem correct no error, however still it doesnt post anything rather than welcome express. I didnt now what to do about pushing data to monggose I couldnt do much. Also I updated the app.js file as well the one under the subfolder not the main app.js one.

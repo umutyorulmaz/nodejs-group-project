@@ -15,9 +15,9 @@ const axios = require('axios').default;
 app.listen(3000,function(){
     console.log("Server started on port 3000");
 });
-app.use(cors());
-var a =[];
-a.fill(wallet.getAddress());
+//app.use(cors());
+
+//a.fill(wallet.getAddress());
 console.log(typeof a);
 app.use(express.static(path.join(__dirname, 'public')));
 
